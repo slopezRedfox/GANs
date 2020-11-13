@@ -1,2 +1,5 @@
+# Jupyter notebook
 .ipynb_checkpoints/**/*
+
+# Base de datos
 source/**/**/*
