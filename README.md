@@ -6,7 +6,7 @@
 
 ## Documentation in English
 
-This repository shows the methodology to implement an **Adversary Neural Network** architecture to generate synthetic images from Gaussian noise.
+This repository shows the methodology to implement an **Generative Adversarial Neural Network** architecture to generate synthetic images from Gaussian noise.
 
 The whole process is described step by step in the Jupyter Notebooks, but for this moment all the comments are on spanish, but in this section you could find a brief explanation. The architecture performance tests are done with two databases:
 
