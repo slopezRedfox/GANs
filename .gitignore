@@ -3,3 +3,9 @@
 
 # Base de datos
 source/**/**/*
+
+# Resultados
+combined_64_64_weigths.h5
+discriminator_64_64_weigths.h5
+generator_64_64_weigths.h5
+results_cafe.csv
